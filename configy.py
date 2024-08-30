@@ -1,0 +1,2 @@
+secret_key=b'\xed+\xa2D\x1e\x88h\xde\x83v\x8c\xe46V\x80'
+salt='adminverify'
